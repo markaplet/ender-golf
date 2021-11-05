@@ -1,0 +1,1 @@
+execute at @e[type=armor_stand,limit=1,tag=freeze] run teleport @s ~ ~ ~
